@@ -1,12 +1,10 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * main - void return
  * description - alphabet to lowecase
  * Return - int
  */
-int main()
-{
 
 print_alphabet();
 	
