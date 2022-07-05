@@ -2,19 +2,18 @@
 /**
  * main - void return
  * description - alphabet to lowecase
- * return - int
+ * Return - int
  */
-
 void print_alphabet(void)
 {
- char c = 'a';
+	char c = 'a';
 
- while(c <= 'z')
- {
-	putchar(c);
-	c++;
-	putchar('\n');
- 
- }
+	while (c <= 'z')
+	{
+		_putchar(c);
+		c++;
+
+	}
+	_putchar('\n');
 
 }
