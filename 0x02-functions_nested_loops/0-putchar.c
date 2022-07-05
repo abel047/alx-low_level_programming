@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main fd
- * desctription
- *return 0
+ * main - printing message
+ * description - print
+ * return 0
  */
 
 int main(void)
