@@ -3,7 +3,7 @@
 /**
  * main - printing message
  * description - print
- * retur: always
+ * Rtrun:0
  */
 
 int main(void)
