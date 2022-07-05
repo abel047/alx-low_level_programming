@@ -1,10 +1,18 @@
 #include <stdio.h>
-#include <main.h>
+
 /**
  * main - void return
  * description - alphabet to lowecase
  * Return - int
  */
+int main()
+{
+
+print_alphabet();
+	
+return (0);
+}
+
 void print_alphabet(void)
 {
 	char c = 'a';
