@@ -3,7 +3,7 @@
 /**
  * main - printing message
  * description - print
- * return 0
+ * return - does
  */
 
 int main(void)
