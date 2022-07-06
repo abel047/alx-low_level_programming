@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - nested loop
- * description - lop
+ * print_times_table- nested loop
+ * n - lop
  * Return: noreturn
  */
 void print_times_table(int n)
