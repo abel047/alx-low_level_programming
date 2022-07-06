@@ -1,10 +1,10 @@
 #include "main.h"
 
-/*
+/**
  * main - nested loop
  * description - lop
  * Return: noreturn
- **/
+ */
 void print_times_table(int n)
 {
 
