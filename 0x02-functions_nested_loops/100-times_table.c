@@ -2,7 +2,7 @@
 
 /**
  * print_times_table- nested loop
- * n - lop
+ * @n - lop
  * Return: noreturn
  */
 void print_times_table(int n)
