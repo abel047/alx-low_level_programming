@@ -7,7 +7,8 @@
 
 int _isupper(int c)
 {
-if(isupper(c))
+  char c;
+if(c > 'A' && c < 'Z')
 {
 return (1);
 }
